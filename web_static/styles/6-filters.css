@@ -1,0 +1,12 @@
+.popover:hover{
+    display: none;
+    color: #FAFAFA;
+    width: 20px;
+    border: #DDDDDD 1 px;
+    border-radius: 4px;
+    display:list-item;
+}
+*
+{
+    background-color: black;
+}
